@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/94915124/193427112-369abd59-37bb-4f4d-
 
 <p align="left"> <a href="https://twitter.com/rajrm05" target="blank"><img src="https://img.shields.io/twitter/follow/rajrm05?logo=twitter&style=for-the-badge" alt="rajrm05" /></a> </p>
 
-- 🔭 I’m currently working on **improving front end development**
+- 🔭 I’m currently on **improving front end development skills**
 
 - 🤝 I’m looking for help with **front end development , cloud computing, open source**
 

@@ -3,7 +3,7 @@
 https://user-images.githubusercontent.com/94915124/193427112-369abd59-37bb-4f4d-9847-a13cc8944f1f.mp4
 
 <h1 align="center">Hi 👋, I'm Rajesh R Marakumbi</h1>
-<h3 align="center">A passionate frontend developer from India, enthusiastic about cloud computing, startups</h3>
+<h3 align="center">A passionate frontend developer from India, enthusiastic about cloud computing, startups and VR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajrm5&label=Profile%20views&color=0e75b6&style=flat" alt="rajrm5" /> </p>
 
@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/94915124/193427112-369abd59-37bb-4f4d-
 
 <p align="left"> <a href="https://twitter.com/rajrm05" target="blank"><img src="https://img.shields.io/twitter/follow/rajrm05?logo=twitter&style=for-the-badge" alt="rajrm05" /></a> </p>
 
-- 🔭 I’m currently on **improving front end development skills**
+- 🔭 I’m currently **improving front end development skills**
 
 - 🤝 I’m looking for help with **front end development , cloud computing, open source**
 
